@@ -1,0 +1,46 @@
+body{
+    font-family: Arial;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background: darkblue;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav{
+    background: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+input, select{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button{
+    background: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
